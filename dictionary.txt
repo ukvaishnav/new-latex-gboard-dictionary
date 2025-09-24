@@ -1079,6 +1079,121 @@ _rp	₎
 \dotx	ẋ	
 \doty	ẏ	
 \dotz	ż	
+\dotalpha	α̇
+\ddotalpha	α̈
+\dotAlpha	Α̇
+\ddotAlpha	Α̈
+
+\dotbeta	β̇
+\ddotbeta	β̈
+\dotBeta	Β̇
+\ddotBeta	Β̈
+
+\dotgamma	γ̇
+\ddotgamma	γ̈
+\dotGamma	Γ̇
+\ddotGamma	Γ̈
+
+\dotdelta	δ̇
+\ddotdelta	δ̈
+\dotDelta	Δ̇
+\ddotDelta	Δ̈
+
+\dotepsilon	ε̇
+\ddotepsilon	ε̈
+\dotEpsilon	Ε̇
+\ddotEpsilon	Ε̈
+
+\dotzeta	ζ̇
+\ddotzeta	ζ̈
+\dotZeta	Ζ̇
+\ddotZeta	Ζ̈
+
+\doteta	η̇
+\ddoteta	η̈
+\dotEta	Η̇
+\ddotEta	Η̈
+
+\dottheta	θ̇
+\ddottheta	θ̈
+\dotTheta	Θ̇
+\ddotTheta	Θ̈
+
+\dotiota	ι̇
+\ddotiota	ϊ
+\dotIota	Ι̇
+\ddotIota	Ϊ
+
+\dotkappa	κ̇
+\ddotkappa	κ̈
+\dotKappa	Κ̇
+\ddotKappa	Κ̈
+
+\dotlambda	λ̇
+\ddotlambda	λ̈
+\dotLambda	Λ̇
+\ddotLambda	Λ̈
+
+\dotmu	μ̇
+\ddotmu	μ̈
+\dotMu	Μ̇
+\ddotMu	Μ̈
+
+\dotnu	ν̇
+\ddotnu	ν̈
+\dotNu	Ν̇
+\ddotNu	Ν̈
+
+\dotxi	ξ̇
+\ddotxi	ξ̈
+\dotXi	Ξ̇
+\ddotXi	Ξ̈
+
+\dotpi	π̇
+\ddotpi	π̈
+\dotPi	Π̇
+\ddotPi	Π̈
+
+\dotrho	ρ̇
+\ddotrho	ρ̈
+\dotRho	Ρ̇
+\ddotRho	Ρ̈
+
+\dot sigma	σ̇
+\ddotsigma	σ̈
+\dotSigma	Σ̇
+\ddotSigma	Σ̈
+
+\dottau	τ̇
+\ddottau	τ̈
+\dotTau	Τ̇
+\ddotTau	Τ̈
+
+\dotupsilon	υ̇
+\ddotupsilon	ϋ
+\dotUpsilon	Υ̇
+\ddotUpsilon	Ϋ
+
+\dotphi	φ̇
+\ddotphi	φ̈
+\dotPhi	Φ̇
+\ddotPhi	Φ̈
+
+\dotchi	χ̇
+\ddotchi	χ̈
+\dotChi	Χ̇
+\ddotChi	Χ̈
+
+\dotpsi	ψ̇
+\ddotpsi	ψ̈
+\dotPsi	Ψ̇
+\ddotPsi	Ψ̈
+
+\dotomega	ω̇
+\ddotomega	ω̈
+\dotOmega	Ω̇
+\ddotOmega	Ω̈
+
 \vectora	a⃗	
 \vectorb	b⃗	
 \vectorc	c⃗	
