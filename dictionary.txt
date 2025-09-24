@@ -1,4 +1,5 @@
-# Gboard Dictionary version:1
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
 \Iota	I	
 \lnot	¬	
 \neg	¬	
